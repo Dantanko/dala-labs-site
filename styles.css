@@ -1,16 +1,5 @@
 
-:root{
-  --paper:#F5F2EA;
-  --ink:#0A0C10;
-  --ink2:#131720;
-  --text:#F5F7FA;
-  --muted:#AEB5C0;
-  --line:#343A46;
-  --line-dark:#242A34;
-  --signal:#4169FF;
-  --signal2:#9B6CFF;
-  --gap:#FFB020;
-  --measure:#20C997;
+:root{--paper:#F5F2EA;--ink:#0A0C10;--ink2:#131720;--text:#F5F7FA;--muted:#AEB5C0;--line:#343A46;--line-dark:#242A34;--signal:#4169FF;--signal2:#9B6CFF;--gap:#FFB020;--measure:#20C997;
 }--max:1240px;--gutter:clamp(20px,4vw,64px);--serif:Georgia,'Times New Roman',serif;--sans:Inter,Arial,sans-serif;--mono:'IBM Plex Mono',Consolas,monospace}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--text);font:16px/1.65 var(--sans);-webkit-font-smoothing:antialiased}a{color:inherit}img,svg{max-width:100%;display:block}button,input,textarea{font:inherit}::selection{background:var(--signal);color:white}:focus-visible{outline:2px solid var(--signal);outline-offset:4px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
