@@ -1,0 +1,30 @@
+# Dala Forge
+
+> Dala Forge helps companies become understood, trusted, and recommended in the AI-mediated decision economy. It combines AEO (Answer Engine Optimization), technical SEO, and AI Recommendation Intelligence — the practice of improving how AI systems represent, cite, and recommend a business — with hands-on implementation, not just reporting.
+
+Dala Forge is based in Abuja, Nigeria, and serves businesses across Nigeria, including Lagos, Rivers, and Kano states. Primary focus sectors: real estate, healthcare, finance, hospitality, professional services, and education.
+
+Also referred to in the industry as: Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), AI search optimization, AI visibility, LLM optimization, and AI recommendation intelligence. Dala Forge's own preferred term is AI Recommendation Intelligence, but the underlying work is what most people mean by AEO or GEO.
+
+## Services
+
+- [AI Visibility Audit](https://www.dalaforge.com/what-we-do.html): Assessment of entity clarity, authority, evidence, digital footprint, AI representation, recommendation visibility, and competitive position — including competitive research and the business-change signals that explain why a visibility gap exists.
+- [AEO Implementation](https://www.dalaforge.com/what-we-do.html): Hands-on implementation alongside the client's team — structuring information, improving digital properties, developing credible evidence, strengthening category positioning, fixing entity inconsistencies, and implementing structured data. The client remains the owner and operator of the brand.
+- [AI Recommendation Monitoring](https://www.dalaforge.com/what-we-do.html): Ongoing monitoring of how AI systems (ChatGPT, Gemini, Perplexity, and others) describe and recommend a company over time, tracking competitive movement and measuring whether implementation actually changed the outcome.
+
+## Key pages
+
+- [Home](https://www.dalaforge.com/): Positioning and overview.
+- [What We Do](https://www.dalaforge.com/what-we-do.html): The three services in detail.
+- [Methodology](https://www.dalaforge.com/methodology.html): The Dala Forge framework — Discover, Research, Map, Audit, Identify, Implement, Measure. Eight dimensions of representation assessed in every audit.
+- [Research](https://www.dalaforge.com/research.html): Research focus areas and the evidence standard Dala Forge holds itself to.
+- [About](https://www.dalaforge.com/about.html): Company background.
+- [Contact](https://www.dalaforge.com/contact.html): How to reach Dala Forge.
+
+## Evidence standard
+
+Dala Forge does not use fabricated proof: no fake client logos, no invented testimonials, no unsupported "trusted by" claims. Until real clients exist, the company treats itself as its own first case study (Client Zero), publishing its baseline, methodology, and results as they become real. See the Research page for the current status of that work.
+
+## Common questions this site answers
+
+See the FAQ section on the homepage for direct answers to: the difference between AEO and SEO, whether AEO is relevant in Nigeria yet, how Dala Forge measures AI visibility, whether this applies to small/local businesses, how results differ across AI systems, what happens during an audit, and whether client data is shared with AI providers (it is not).
