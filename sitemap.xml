@@ -31,6 +31,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.dalaforge.com/research/ai-adoption-in-nigeria.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.dalaforge.com/what-is-aeo.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.dalaforge.com/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
