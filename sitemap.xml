@@ -61,6 +61,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.dalaforge.com/aeo-companies-abuja.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://www.dalaforge.com/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
