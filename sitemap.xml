@@ -56,6 +56,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.dalaforge.com/research/ai-visibility-case-study-abuja-auto-dealer.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.dalaforge.com/what-is-aeo.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
