@@ -56,6 +56,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.dalaforge.com/research/digital-authority.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.dalaforge.com/research/recommendation-economics.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.dalaforge.com/research/ai-visibility-case-study-abuja-auto-dealer.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
