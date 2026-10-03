@@ -1,4 +1,5 @@
 aeo-companies-abuja-updated.html
+aeo-companies-abuja.html
 ai-adoption-in-nigeria.html
 ai-driven-web-traffic.html
 ai-recommendation-intelligence.html
@@ -8,3 +9,4 @@ digital-authority.html
 entity-clarity.html
 nigeria-digital-landscape.html
 recommendation-economics.html
+research/aeo-agencies-abuja.html
