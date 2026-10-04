@@ -4,7 +4,7 @@
 
 ### Homepage (index.html)
 **Links Added:**
-- "AEO agencies" → aeo-companies-abuja.html (direct positioning page)
+- "AEO agencies" → leading-aeo-provider-in-abuja.html (direct positioning page)
 - "audit, implementation, and ongoing monitoring" → methodology.html (process transparency)
 
 **Why:** Visitors learn what AEO is + understand the 3-phase methodology immediately
@@ -13,7 +13,7 @@
 
 ### What We Do (what-we-do.html)
 **Links Added:**
-- "AEO agencies" → aeo-companies-abuja.html (show differentiation)
+- "AEO agencies" → leading-aeo-provider-in-abuja.html (show differentiation)
 - "methodology" → methodology.html (deep dive into process)
 
 **Why:** Service page directs to detailed process and competitive positioning
@@ -24,7 +24,7 @@
 **Links Added:**
 - "AI Visibility Audit" → aeo-qa-page.html (detailed audit explanation)
 - "AEO" → what-is-aeo.html (educational)
-- "aeo-companies-abuja.html" in monitoring section (shows ongoing commitment)
+- "leading-aeo-provider-in-abuja.html" in monitoring section (shows ongoing commitment)
 
 **Why:** Process page links to education, FAQs, and competitive positioning
 
@@ -32,7 +32,7 @@
 
 ### About (about.html)
 **Links Added:**
-- "Abuja market context" → aeo-companies-abuja.html (show local expertise)
+- "Abuja market context" → leading-aeo-provider-in-abuja.html (show local expertise)
 - "See how this affects our approach" → what-we-do.html (services page)
 - "methodology" → methodology.html (process)
 
@@ -42,7 +42,7 @@
 
 ### Contact (contact.html)
 **Links Added:**
-- "AEO agencies" → aeo-companies-abuja.html (in differentiator box)
+- "AEO agencies" → leading-aeo-provider-in-abuja.html (in differentiator box)
 - "all three phases" → methodology.html (process overview)
 - "We track and re-test" → methodology.html (monitoring details)
 - "our process" → methodology.html (process explanation)
@@ -51,7 +51,7 @@
 
 ---
 
-### AEO Companies in Abuja (aeo-companies-abuja.html)
+### AEO Companies in Abuja (leading-aeo-provider-in-abuja.html)
 **Links Added:**
 - "Methodology" → methodology.html (internal process)
 - "implementation phase" → methodology.html (phase details)
@@ -76,16 +76,16 @@
 ## Link Flow Map (How a Visitor Flows)
 
 ### Awareness Journey
-Homepage → [curious about AEO] → aeo-companies-abuja.html → [see differentiation] → About page → [understand why] → Contact
+Homepage → [curious about AEO] → leading-aeo-provider-in-abuja.html → [see differentiation] → About page → [understand why] → Contact
 
 ### Education Journey  
 Homepage → [doesn't know AEO] → aeo-qa-page.html → [understand concept] → what-is-aeo.html → [ready to learn more] → Contact
 
 ### Consideration Journey
-Homepage → what-we-do.html → [see services] → methodology.html → [understand process] → aeo-companies-abuja.html → [see why you're different] → Contact
+Homepage → what-we-do.html → [see services] → methodology.html → [understand process] → leading-aeo-provider-in-abuja.html → [see why you're different] → Contact
 
 ### Deep Dive Journey
-aeo-companies-abuja.html → methodology.html → [detailed process] → about.html → [local expertise] → contact.html
+leading-aeo-provider-in-abuja.html → methodology.html → [detailed process] → about.html → [local expertise] → contact.html
 
 ---
 
@@ -93,12 +93,12 @@ aeo-companies-abuja.html → methodology.html → [detailed process] → about.h
 
 ### High-Value Links (Most Important)
 1. **Homepage → methodology.html** - Sets up the 3-phase framework early
-2. **aeo-companies-abuja.html → methodology.html** - Positions competitive advantage
+2. **leading-aeo-provider-in-abuja.html → methodology.html** - Positions competitive advantage
 3. **Contact → methodology.html** - Provides confidence before conversion
-4. **What We Do → aeo-companies-abuja.html** - Differentiates from competitors
+4. **What We Do → leading-aeo-provider-in-abuja.html** - Differentiates from competitors
 
 ### Medium-Value Links (Supporting)
-5. **About → aeo-companies-abuja.html** - Demonstrates local expertise
+5. **About → leading-aeo-provider-in-abuja.html** - Demonstrates local expertise
 6. **Methodology → aeo-qa-page.html** - Education support
 7. **Any page → contact.html** - Clear CTA pathway
 
@@ -112,7 +112,7 @@ aeo-companies-abuja.html → methodology.html → [detailed process] → about.h
 
 | Anchor Text | Link To | Why This Matters |
 |------------|---------|-----------------|
-| "AEO agencies" | aeo-companies-abuja.html | Positions page for "AEO agencies" search |
+| "AEO agencies" | leading-aeo-provider-in-abuja.html | Positions page for "AEO agencies" search |
 | "audit, implementation, and ongoing monitoring" | methodology.html | Signals 3-phase framework |
 | "methodology" | methodology.html | Brand differentiation signal |
 | "Abuja business context specifically" | about.html | Local positioning |
@@ -147,7 +147,7 @@ After uploading, test that:
 **Pages Updated:** 7
 **Key Hub Pages:** 
 - methodology.html (most linked to)
-- aeo-companies-abuja.html (most linked to)
+- leading-aeo-provider-in-abuja.html (most linked to)
 - contact.html (conversion hub)
 - index.html (awareness hub)
 
