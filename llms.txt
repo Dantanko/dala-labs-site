@@ -21,6 +21,10 @@ Also referred to in the industry as: Answer Engine Optimization (AEO), Generativ
 - [About](https://www.dalaforge.com/about.html): Company background.
 - [Contact](https://www.dalaforge.com/contact.html): How to reach Dala Forge.
 
+## What Dala Forge works toward
+
+Dala Forge's work goes beyond citation. Depending on the client's intent, it targets being cited, being recommended, visibility on questions with buying intent (buy and book, price and cost, shortlist, comparison, local, trust check, fit and eligibility, contact, switching, business-buyer queries), and AI systems being able to explain the client's platform, product or company accurately. Because AI systems differ from each other and change often, Dala Forge's job is to measure how each system represents a company and to place the company's content where those systems are most likely to find it, in the formats they use most. Dala Forge does not claim it can make any AI system recommend a client.
+
 ## Evidence standard
 
 Dala Forge does not use fabricated proof: no fake client logos, no invented testimonials, no unsupported "trusted by" claims. Until real clients exist, the company treats itself as its own first case study (Client Zero), publishing its baseline, methodology, and results as they become real. See the Research page for the current status of that work.
