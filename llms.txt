@@ -23,7 +23,7 @@ Also referred to in the industry as: Answer Engine Optimization (AEO), Generativ
 
 ## What Dala Forge works toward
 
-Dala Forge's work goes beyond citation. Depending on the client's intent, it targets being cited, being recommended, visibility on questions with buying intent (buy and book, price and cost, shortlist, comparison, local, trust check, fit and eligibility, contact, switching, business-buyer queries), and AI systems being able to explain the client's platform, product or company accurately. Because AI systems differ from each other and change often, Dala Forge's job is to measure how each system represents a company and to place the company's content where those systems are most likely to find it, in the formats they use most. Dala Forge does not claim it can make any AI system recommend a client.
+Dala Forge's work goes beyond citation. Depending on the client's intent, it targets being cited, being recommended, visibility on questions with buying intent (buy and book, price and cost, shortlist, comparison, local, trust check, fit and eligibility, contact, switching, business-buyer queries), and AI systems being able to explain the client's platform, product or company accurately. Because AI systems differ from each other and change often, Dala Forge's job is to measure how each system represents a company and to place the company's content where those systems are most likely to find it, in the formats they use most. The aim of the work is for clients to be recommended by AI systems; results are measured and reported per system rather than guaranteed. Dala Forge has partnered with Cabsal Studios, a web design agency.
 
 ## Evidence standard
 
