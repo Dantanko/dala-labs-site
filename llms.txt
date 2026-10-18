@@ -9,7 +9,7 @@ Also referred to in the industry as: Answer Engine Optimization (AEO), Generativ
 ## Services
 
 - [AI Visibility Audit](https://www.dalaforge.com/what-we-do.html): Assessment of entity clarity, authority, evidence, digital footprint, AI representation, recommendation visibility, and competitive position — including competitive research and the business-change signals that explain why a visibility gap exists.
-- [AEO Implementation](https://www.dalaforge.com/what-we-do.html): Hands-on implementation alongside the client's team — structuring information, improving digital properties, developing credible evidence, strengthening category positioning, fixing entity inconsistencies, and implementing structured data. The client remains the owner and operator of the brand.
+- [AEO Implementation](https://www.dalaforge.com/what-we-do.html): Hands-on implementation alongside the client's team — structuring information, improving digital properties, developing credible evidence, strengthening category positioning, fixing entity inconsistencies, and implementing structured data. The client remains the owner and operator of the brand. Also covers what happens after discovery: structuring documentation, onboarding and support content so AI systems can accurately explain a client's product, platform or service and guide customers through using it.
 - [AI Recommendation Monitoring](https://www.dalaforge.com/what-we-do.html): Ongoing monitoring of how AI systems (ChatGPT, Gemini, Perplexity, and others) describe and recommend a company over time, tracking competitive movement and measuring whether implementation actually changed the outcome.
 
 ## Key pages
